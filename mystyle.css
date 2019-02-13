@@ -57,6 +57,7 @@ html, body {
     background-color:#eee;
     padding: 20px;
     width: 100%;
+    justify-content: flex-end;
    }
    
     ul {
@@ -138,12 +139,13 @@ html, body {
     iframe {
       max-width: 560px;
       width: 100%;
+      margin-left: 400px;
     }
    
    
    
    
-   #pricing {
+   #pricing, .row {
     margin-top: 60px;
     display: flex;
     flex-direction: row;
