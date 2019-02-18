@@ -45,7 +45,7 @@ html, body {
    }
    
    .logo, #header-image {
-      width: 200px;
+      width: 300px;
       height: 30px;
       display: flexbox;
       background-color: #eee;
@@ -55,7 +55,6 @@ html, body {
    nav, #nav-bar {
     margin-top: 30px;
     background-color:#eee;
-    padding: 20px;
     width: 100%;
     justify-content: flex-end;
    }
@@ -130,7 +129,7 @@ html, body {
     }
    
    
-   #how-it-works {
+   #How-It-Works {
     margin-top: 50px;
     display: flex;
     justify-content: center;
