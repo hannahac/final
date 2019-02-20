@@ -26,7 +26,7 @@ html, body {
     display: flex;
    }
    .logo, #nav-bar, .nav-link{
-       height: 30px;
+       height: 25px;
        width: 100px;
        display: flex;
    }
@@ -46,7 +46,7 @@ html, body {
    
    .logo, #header-image {
       width: 300px;
-      height: 30px;
+      height: 25px;
       display: flexbox;
       background-color: #eee;
       font-weight: bold;
@@ -109,14 +109,13 @@ html, body {
    #features {
     margin-top: 30px;
    }
-    .icon, #fire, #truck, #battery-full {
+    .icon, #fire, #truck, #battery {
       display: flex;
       align-items: center;
       justify-content: center;
       height: 125px;
       width: 20vw;
       color: darkorange;
-   
    
     }
    
@@ -126,7 +125,7 @@ html, body {
       justify-content: center;
       height: 125px;
       width: 80vw;
-      padding: 5px;
+      padding: 5px; 
     }
    
    
@@ -197,7 +196,7 @@ html, body {
    
    footer {
     margin-top: 30px;
-    background-color: gray;
+    background-color: lightyellow;
     padding: 20px;
    }
    
@@ -217,5 +216,5 @@ html, body {
       display: flex;
       justify-content: flex-end;
       font-size: 0.9em;
-      color:black;
+      font: black;
     }
