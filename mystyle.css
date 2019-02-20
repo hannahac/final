@@ -57,7 +57,7 @@ html, body {
     }
    
    nav, #nav-bar {
-    margin-top: 30px;
+    margin-top: 10px;
     background-color:#eee;
     width: 100%;
     justify-content: flex-end;
@@ -130,7 +130,7 @@ html, body {
    
    
    #How-It-Works {
-    margin-top: 50px;
+    margin-top: 30px;
     display: flex;
     justify-content: center;
    
@@ -139,6 +139,7 @@ html, body {
       max-width: 560px;
       width: 100%;
       margin-left: 400px;
+      margin-top: 60px;
     }
    
    
